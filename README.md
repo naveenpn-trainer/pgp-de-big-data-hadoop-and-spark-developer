@@ -1,1 +1,1 @@
-# pgp-de-big-data-hadoop-and-spark-developer
+# PGP DE - Big Data Hadoop Spark Developer
